@@ -49,5 +49,5 @@
 
 ### Credits:
 #### The assets came from these MIT licensed repos on Github: 
-[Packard Belle: A nostalgic component UI](https://github.com/padraigfl/packard-belle)
-[98.css](https://github.com/jdan/98.css)
+- [Packard Belle: A nostalgic component UI](https://github.com/padraigfl/packard-belle)
+- [98.css](https://github.com/jdan/98.css)
